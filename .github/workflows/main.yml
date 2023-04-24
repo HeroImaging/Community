@@ -1,0 +1,16 @@
+name: GitHub Discussions Notifier
+
+on:
+  discussion:
+    types: [created]
+  discussion_comment:
+    types: [created]
+    
+jobs:
+  notify-github-discussions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ostk0069/github-discussions-notifier@v0.0.2
+        with:
+          SLACK_CHANNEL_ID: community
+          SLACK_BOT_TOKEN: https://hooks.slack.com/services/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
