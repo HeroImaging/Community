@@ -5,7 +5,7 @@ We're thrilled to have you here and excited to see what you'll bring to our comm
 ### Forum :scroll:
 The [Discussions](https://github.com/HeroImaging/Community/discussions) forum is the perfect place to connect with the development team and other users to share your work, ask questions, and collaborate on new ideas. Don't be shy - introduce yourself and jump right in!
 
-### New features :sparkles: and bug reports :bug:
+### Request new features :sparkles: and report bugs :bug:
 We would love to hear about any new ideas you may have that could help improve Hero. Please don't hesitate to share them with us! Also, if you come across any bugs or issues while using our software, we encourage you to report them. Just go to the [Issues](https://github.com/HeroImaging/Community/issues) section to create a new issue, and select the appropriate category: **Feature request** or **Bug report**. 
 
 ### Video tutorials :movie_camera: and materials :file_folder:
