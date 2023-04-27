@@ -1,3 +1,6 @@
+![transparent-banner-w-green-dot-small](https://user-images.githubusercontent.com/35365778/234791586-594ee21e-fd85-4cfb-98b5-fe5d9213156b.png)
+
+
 # Welcome to the Hero Community!
 
 We're thrilled to have you here and excited to see what you'll bring to our community! 
